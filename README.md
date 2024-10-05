@@ -1,2 +1,12 @@
-# Hospital_Management_System
-Hospital Management System(C#/3-layer Architecture followed),as the name suggests, is an integrated information system for managing all aspects of a hospital.It includes admin,doctor,patients,rooms,staff,accounts etc. panels.Among several features some are- admin,doctor,patients,room,staff,prescription managements, all track records like positions,adding-removing-updating,different panels and privileges for different users along with their information,discharging,approving, admin-doctor-patient-room allocations,availabilities,hierarchies,associations,appointments etc. The purpose for this is to allow us the ability to optimize and digitize all the processes within an institution, which will help to improve customer service, reduce process costs, streamline the search of medical records, bills, patients, doctors, etc.; thus, having a database of each module implemented.  
+# Hospital-Management-System
+The Hospital Management System (developed in C# using a 3-layer architecture) is a comprehensive information system designed to manage all facets of a hospital. This system encompasses various panels for administrators, doctors, patients, rooms, staff, accounts, and more.
+
+Some key features include:
+
+Management of admin, doctor, patient, room, and staff information
+Prescription management
+Comprehensive tracking of records, including positions and the ability to add, remove, or update information
+Different panels and access levels for various users along with their associated information
+Processes for discharging patients, approving requests, and managing allocations for admins, doctors, patients, and rooms
+Availability tracking, hierarchical structures, associations, and appointment scheduling
+The primary goal of this system is to optimize and digitize processes within a healthcare institution, leading to enhanced customer service, reduced operational costs, and more efficient access to medical records, billing information, and details about patients and doctors. This results in a well-organized database for each implemented module.  
